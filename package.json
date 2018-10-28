@@ -1,0 +1,15 @@
+{
+  "name": "ytSync",
+  "description": "YouTube Sync on multiple browsers",
+  "version": "0.1.0",
+  "dependencies": {
+    "minihttp": ">=0.0.6",
+    "promise": ">=6.0.1",
+    "socket.io": "^2.1.1"
+  },
+  "author": {
+    "name": "mfx"
+  },
+  "license": "BSD",
+  "readmeFilename": "README.md"
+}
